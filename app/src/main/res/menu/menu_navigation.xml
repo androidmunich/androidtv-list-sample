@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/navigationHome"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Highlights"/>
+
+        <item
+                android:id="@+id/navigationLive"
+                android:icon="@drawable/ic_live_tv_black_24dp"
+                android:title="Live"/>
+
+        <item
+                android:id="@+id/navigationSubscriptions"
+                android:icon="@drawable/ic_subscriptions_black_24dp"
+                android:title="Subscriptions"/>
+    </group>
+
+
+</menu>

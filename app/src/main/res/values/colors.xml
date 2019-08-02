@@ -1,0 +1,15 @@
+<resources>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+
+    <color name="color_item_selected_background">@color/color_item_unselected_text</color>
+    <color name="color_item_unselected_background">@android:color/transparent</color>
+    <color name="color_item_selected_text">#3d3d3d</color>
+    <color name="color_navigation_item_focused">#0096a6</color>
+    <color name="color_navigation_item_focused_background">#0096a6</color>
+    <color name="color_item_unselected_text">#F1F1F1</color>
+</resources>
